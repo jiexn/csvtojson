@@ -1,0 +1,25 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "description": "csvtojson project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiexn/csvtojson.git"
+  },
+  "keywords": [
+    "csvtojson"
+  ],
+  "author": "jiexn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiexn/csvtojson/issues"
+  },
+  "homepage": "https://github.com/jiexn/csvtojson#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
